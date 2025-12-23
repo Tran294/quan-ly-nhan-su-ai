@@ -1,0 +1,7 @@
+{
+  "name": "Sự kiện AI",
+  "description": "Hệ thống quản lý thành viên sự kiện tinh vi sử dụng Gemini AI để phân tích kỹ năng và lịch sử nhằm dự đoán vị trí phù hợp nhất cho các sự kiện tương lai.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
